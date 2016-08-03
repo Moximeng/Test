@@ -16,7 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+   
+    
+    //你是猪吗，不开发权限叫我要怎么传上去
+    
+    
 }
 
 - (void)didReceiveMemoryWarning {
